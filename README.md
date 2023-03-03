@@ -1,6 +1,6 @@
 # Moringa Data Science Group Project
 
-#Business Understanding
+##Business Understanding
 A bank is experiencing a decline in revenue and seeking to boost it by increasing long term deposits. They intend to identify existing customers who are most likely to open long term deposits accounts. The bank collected data through telemarketing. The objective of the project is to develop a classification model that can predict whether a customer will open a long term deposit account or not. The analysis and model will help the bank in target market segmentation, thus increasing their conversion rate, and in extension, the revenue.
 
 #Data Understanding
@@ -34,12 +34,12 @@ The team focused on accuracy and presicion metrics to evaluate the models.
 
 |Name     |  Github acconut   | 
 |---------|-----------------|
-|[Beth Mithamo](https://github.com/[Mythamor])|
-|[David Mwiti](https://github.com/[github handle])|
-|[Eva Moisasi](https://github.com/[github handle]) |  
-|[Moses Kuria](https://github.com/[github handle])|
-|[Scholar Chepkirui](https://github.com/[github handle]) |
-|[Stephen Thuo](https://github.com/[github handle])| 
+|Beth Mithamo | (https://github.com/Mythamor) |
+|David Mwiti | (https://github.com/) |
+|Eva Moisasi | (https://github.com/[github handle]) |
+|Moses Kuria| (https://github.com/[github handle]) |
+|Scholar Chepkirui| (https://github.com/[github handle]) |
+|Stephen Thuo| (https://github.com/[github handle])|
 
 
 
