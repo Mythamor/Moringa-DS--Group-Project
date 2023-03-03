@@ -9,28 +9,17 @@ Attached is the dataset the group used.
 [archive (1).zip](https://github.com/Mythamor/Moringa-DS--Group-Project/files/10884958/archive.1.zip)
 
 ## Data Preparation
-Investigate and fix;
-1.Duplicates
-2.Missing Values
-3.Outliers
-4.Multicollinearity
-
+The team investigated and fixed; Duplicates, Missing Values, Outliers, Multicollinearity.
 
 ## Data Modeling
-Four classification algorithms were used:
-  1.DecisionTreeClassifier: 
-  2.LogisticRegression: 
-  3.RandomForestClassifier: 
-  4.K- Nearest Neighbor: 
-
+Four classification algorithms were used: DecisionTreeClassifier, LogisticRegression, RandomForestClassifier, K- Nearest Neighbor.
 
 ## Data Evaluation
 The team focused on accuracy and presicion metrics to evaluate the models.
 
-
 ### Contributing Members
 
-|Name     |  Github acconut   | 
+|Name     |  Github account   | 
 |---------|-----------------|
 |Beth Mithamo | https://github.com/Mythamor |
 |David Mwiti | https://github.com/ |
