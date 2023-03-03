@@ -6,7 +6,7 @@ A bank is experiencing a decline in revenue and seeking to boost it by increasin
 ## Data Understanding
 The dataset has 16 columns and 32950 rows with both categorical and numeric variables. The categorical variables include job, marital, education, default, housing, loan, contact, month, day_of_week, poutcome, and y(target variable). The numeric variables include age, duration, campaign, pdays, and previous(contact information)
 
-Data Preparation
+## Data Preparation
 Investigate and fix;
 1.Duplicates
 2.Missing Values
@@ -14,7 +14,7 @@ Investigate and fix;
 4.Multicollinearity
 
 
-# Data Modeling
+## Data Modeling
 Four Classification algorithms were used:
 1.DecisionTreeClassifier: 
 2.LogisticRegression: 
@@ -22,11 +22,11 @@ Four Classification algorithms were used:
 4.K- Nearest Neighbor: 
 
 
-# Data Evaluation
+## Data Evaluation
 The team focused on accuracy and presicion metrics to evaluate the models.
 
 
-## Contributing Members
+### Contributing Members
 
 |Name     |  Github acconut   | 
 |---------|-----------------|
