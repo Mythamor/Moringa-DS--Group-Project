@@ -1,6 +1,6 @@
 # Moringa - Data Science Group Project
 
-## Business Understanding
+## Business Problem
 A bank is experiencing a decline in revenue and seeking to boost it by increasing long term deposits. They intend to identify existing customers who are most likely to open long term deposits accounts. The bank collected data through telemarketing. The objective of the project is to develop a classification model that can predict whether a customer will open a long term deposit account or not. The analysis and model will help the bank in target market segmentation, thus increasing their conversion rate, and in extension, the revenue.
 
 ## Data Understanding
