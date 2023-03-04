@@ -26,7 +26,7 @@ The team focused on accuracy and presicion metrics to evaluate the models.
 |Beth Mithamo | https://github.com/Mythamor |
 |David Mwiti | https://github.com/mwiti6844 |
 |Eva Moisasi | https://github.com/Eva-Moisasi |
-|Moses Kuria| https://github.com/ |
+|Moses Kuria| https://github.com/moseskuriia |
 |Scholar Chepkirui| https://github.com/Scholarchep |
 |Stephen Thuo| https://github.com/ |
 
