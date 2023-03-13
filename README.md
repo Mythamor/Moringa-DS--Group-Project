@@ -7,11 +7,8 @@ A bank is experiencing a decline in revenue and seeking to boost it by increasin
 
 ## Data Understanding
 The data shape is (32950, 16)
-Attached is the dataset the group used.
+We sourced for the dataset from Kaggle.
 [archive (1).zip](https://github.com/Mythamor/Moringa-DS--Group-Project/files/10884958/archive.1.zip)
-
-## Data Preparation
-The team investigated and fixed; Duplicates, Missing Values, Outliers, Multicollinearity.
 
 ## Data Modeling
 Four classification algorithms were used: DecisionTreeClassifier, LogisticRegression, RandomForestClassifier, K- Nearest Neighbor.
@@ -19,7 +16,7 @@ Four classification algorithms were used: DecisionTreeClassifier, LogisticRegres
 ## Data Evaluation
 The team focused on accuracy and presicion metrics to evaluate the models.
 
-### Contributing Members
+### Collaborators
 
 |Name     |  Github account   | 
 |---------|-----------------|
